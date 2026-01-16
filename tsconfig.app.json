@@ -8,7 +8,7 @@
   },
   "include": [
     "src/**/*.ts"
-  ],
+, "src/app/app/core/services/shared/models/pet.model"  ],
   "exclude": [
     "src/**/*.spec.ts"
   ]
